@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+table{
+    width: 1000px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px solid rgb(147, 144, 144);
+}
+
+a{
+    text-decoration: none;
+}
+
+.roblox1{
+    width: 170px;
+}
+
+.roblox2{
+    width: 200px;
+}
+
+a:hover,
+a:visited,
+a:active {
+    color: #3366cc; 
+}
+
